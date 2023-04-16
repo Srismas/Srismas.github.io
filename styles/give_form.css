@@ -1,0 +1,7 @@
+#submitPopup {
+    visibility: hidden;
+}
+
+#submitPoput::after {
+    visibility: hidden;
+}

@@ -1,0 +1,21 @@
+.contact_header {
+    margin: 50px;
+}
+
+h4 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+form {
+    text-align: center;
+    margin: 50px;
+}
+
+.submit_button {
+    font-size: large;
+    height: 75px;
+    width: 125px;
+    background-color: #991111;
+    color: white;
+}
