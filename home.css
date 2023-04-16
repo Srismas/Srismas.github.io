@@ -1,0 +1,49 @@
+main {
+    grid-column: 1 / span 8;
+}
+
+.welcome {
+    margin: 20px;
+    grid-column: span 8;
+    text-align: center;
+}
+
+h2 {
+    font-size: 40;
+    font-weight: semibold;
+}
+
+h3 {
+    font-size: 36;
+    font-weight: semibold;
+}
+
+.times_header {
+    grid-column: span 8;
+    text-align: center;
+}
+
+.service_times {
+    display: grid;
+    text-align: center;
+    grid-column: span 8;
+    margin-bottom: 30px;
+    /* margin-left: 850px;a */
+}
+
+.column {
+    font-family: Lato;
+    font-size: 20;
+    float: left;
+    padding-right: 20px;
+    text-align: center;
+    margin: auto;
+}
+
+.sunday {
+    grid-column: 1 / span 4;
+}
+
+.wednesday {
+    grid-column: 5 / span 4;
+}
